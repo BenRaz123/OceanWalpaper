@@ -8,7 +8,7 @@ Ocean walpaper is a nifty little python script that generates a nice walpaper or
 
 ## How-To
 
-In order to run the file, you first need to ![install manim](https://docs.manim.community/en/stable/installation.html). To run the file simply write
+In order to run the file, you first need to [install manim](https://docs.manim.community/en/stable/installation.html). To run the file simply write
 
 ```shell
 $ manim -pq{x} scene.py -- [--animate|-a]
